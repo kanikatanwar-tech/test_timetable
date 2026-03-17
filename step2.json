@@ -1,0 +1,5606 @@
+{
+  "assignments": {
+    "6A": {
+      "teacher": "SAVITA SHARMA",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "SAVITA SHARMA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "RANJANA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "SONI",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SONIA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "ANJU MAAN",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "NEHA GUPTA",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "CA-KB",
+          "teacher": "POOJA COMPUTER",
+          "periods": 6,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or SSC",
+          "teacher": "ANJU MAAN",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or ENG",
+          "teacher": "SAVITA SHARMA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "6B": {
+      "teacher": "BABITA DABAS",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "RICHA MITTAL",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "BABITA DABAS",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "ANJU JOON",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "DEEPA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "POOJA TYAGI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "SUNITA SKT",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ICT",
+          "teacher": "AMIT KUMAR",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MUSIC or KB",
+          "teacher": "MEENU  MUSIC",
+          "periods": 6,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or ENG",
+          "teacher": "RICHA MITTAL",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or HINDI",
+          "teacher": "BABITA DABAS",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "6C": {
+      "teacher": "PINKI SHARMA",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "KAVITA YADAV",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "PINKI SHARMA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "ANITA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SUMAN SEJWAL",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "POONAM SST",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "ANITA KUMARI",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ICT",
+          "teacher": "AMIT KUMAR",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "DWG or KB",
+          "teacher": "REKHA YADAV",
+          "periods": 6,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or MATHS",
+          "teacher": "ANITA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or HINDI",
+          "teacher": "PINKI SHARMA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "7A": {
+      "teacher": "LAXMI",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "KAVITA YADAV",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "LAXMI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "ANITA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SUMAN SEJWAL",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "KOMAL",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "ANITA KUMARI",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "CA or KB",
+          "teacher": "POOJA COMPUTER",
+          "periods": 6,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or G.S",
+          "teacher": "SEEMA H.SC",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or HINDI",
+          "teacher": "LAXMI",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "7B": {
+      "teacher": "SEEMA KAPOOR",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ENG",
+          "teacher": "SAVITA SHARMA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "VIJAY SHARMA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "ANJU JOON",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SEEMA KAPOOR",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "ANJU MAAN",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "NEHA GUPTA",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ICT",
+          "teacher": "AMIT KUMAR",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC or KB",
+          "teacher": "SEEMA H.SC",
+          "periods": 6,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or G.S",
+          "teacher": "MEENU  MUSIC",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or SCI",
+          "teacher": "SEEMA KAPOOR",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "7C": {
+      "teacher": "JYOTI SSA",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ENG",
+          "teacher": "SHAKUNTALA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "JYOTI SSA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "SUPRIYA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SONIA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "BHAWNA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "SUNITA SKT",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ICT",
+          "teacher": "AMIT KUMAR",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "DWG or KB",
+          "teacher": "REKHA YADAV",
+          "periods": 6,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or DWG",
+          "teacher": "REKHA YADAV",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or SSC",
+          "teacher": "JYOTI SSA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "7D": {
+      "teacher": "BHAWNA",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ENG",
+          "teacher": "KAVITA ROHILLA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "BABITA DABAS",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "SONI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SUSHMA CHAUHAN",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "BHAWNA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "MAMTA",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ICT",
+          "teacher": "POOJA COMPUTER",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MUSIC or KB",
+          "teacher": "MEENU  MUSIC",
+          "periods": 6,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or SSC",
+          "teacher": "BHAWNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or MATHS",
+          "teacher": "SONI",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "8A": {
+      "teacher": "SUNITA SKT",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ENG",
+          "teacher": "SHAKUNTALA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "BABITA DABAS",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "SUPRIYA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SEEMA KAPOOR",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "POOJA TYAGI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "SUNITA SKT",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "CA or KB",
+          "teacher": "AMIT KUMAR",
+          "periods": 6,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or SKT",
+          "teacher": "SUNITA SKT",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            1
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or G.S",
+          "teacher": "MONIKA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "SUNITA SKT",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "8B": {
+      "teacher": "KOMAL",
+      "teacher_period": 2,
+      "subjects": [
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ENG",
+          "teacher": "KAVITA YADAV",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "VIJAY SHARMA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "SONI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SUSHMA CHAUHAN",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "KOMAL",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "MAMTA",
+          "periods": 4,
+          "consecutive": "No",
+          "periods_pref": [
+            1
+          ],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ICT",
+          "teacher": "POOJA COMPUTER",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "DWG or KB",
+          "teacher": "REKHA YADAV",
+          "periods": 6,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or SSC",
+          "teacher": "KOMAL",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            1
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or ENG",
+          "teacher": "KAVITA YADAV",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "KOMAL",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            1
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "8C": {
+      "teacher": "ANITA KUMARI",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "RICHA MITTAL",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "PINKI SHARMA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "NISHA BARAK",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SUMAN SEJWAL",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "JYOTI SSA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "ANITA KUMARI",
+          "periods": 4,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ICT",
+          "teacher": "AMIT KUMAR",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC or KB",
+          "teacher": "SEEMA H.SC",
+          "periods": 6,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN",
+          "teacher": "ANITA KUMARI",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            1
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "ANITA KUMARI",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            1
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or G.S",
+          "teacher": "IRFAN",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "8D": {
+      "teacher": "NEHA GUPTA",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "KAVITA ROHILLA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "LAXMI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "BHAWNA GAUR",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "DEEPA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "POONAM SST",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "NEHA GUPTA",
+          "periods": 4,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ICT",
+          "teacher": "AMIT KUMAR",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MUSIC or KB",
+          "teacher": "MEENU  MUSIC",
+          "periods": 6,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or SKT",
+          "teacher": "NEHA GUPTA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            1
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "NEHA GUPTA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            1
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or G.S",
+          "teacher": "PARUL BEAUTY",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "9A": {
+      "teacher": "MAMTA",
+      "teacher_period": 2,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "RICHA MITTAL",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "PINKI SHARMA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "BHAWNA GAUR",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SUSHMA CHAUHAN",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI PRAC",
+          "teacher": "SUSHMA CHAUHAN",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "BHAWNA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "MAMTA",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or MATHS",
+          "teacher": "BHAWNA GAUR",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or SKT",
+          "teacher": "MAMTA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            1
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "MAMTA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            1
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "9B": {
+      "teacher": "POONAM SST",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "KAVITA YADAV",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "RANJANA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "ANITA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SONIA",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI PRAC",
+          "teacher": "SONIA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "POONAM SST",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "NEHA GUPTA",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "HCARE",
+          "teacher": "SHRADHA HEALTH",
+          "periods": 4,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or SCI",
+          "teacher": "SONIA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or SSC",
+          "teacher": "POONAM SST",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "POONAM SST",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "9C": {
+      "teacher": "POOJA TYAGI",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "KAVITA ROHILLA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "BABITA DABAS",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "SONI",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SEEMA KAPOOR",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI PRAC",
+          "teacher": "SEEMA KAPOOR",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "POOJA TYAGI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "ANITA KUMARI",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "HCARE",
+          "teacher": "SHRADHA HEALTH",
+          "periods": 4,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or ENG",
+          "teacher": "KAVITA ROHILLA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or SSC",
+          "teacher": "POOJA TYAGI",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "POOJA TYAGI",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "9D": {
+      "teacher": "VIJAY SHARMA",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "SAVITA SHARMA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "VIJAY SHARMA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "ANJU JOON",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SONIA",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI PRAC",
+          "teacher": "SONIA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "ANJU MAAN",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "SUNITA SKT",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "BEAUTY",
+          "teacher": "PARUL BEAUTY",
+          "periods": 4,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or G.S",
+          "teacher": "ANNU",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or HINDI",
+          "teacher": "VIJAY SHARMA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "VIJAY SHARMA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "9E": {
+      "teacher": "DEEPA",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "SHAKUNTALA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "LAXMI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "NISHA BARAK",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "DEEPA",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI PRAC",
+          "teacher": "DEEPA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "KOMAL",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "MAMTA",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "BEAUTY",
+          "teacher": "PARUL BEAUTY",
+          "periods": 4,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or ENG",
+          "teacher": "SHAKUNTALA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or SCI",
+          "teacher": "DEEPA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            1
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "DEEPA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "10A": {
+      "teacher": "ANJU JOON",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "KAVITA ROHILLA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "VIJAY SHARMA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "ANJU JOON",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "DEEPA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI PRAC",
+          "teacher": "DEEPA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "POONAM SST",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "MAMTA",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or G.S",
+          "teacher": "POOJA COMPUTER",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or MATHS",
+          "teacher": "ANJU JOON",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "ANJU JOON",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "10B": {
+      "teacher": "SUSHMA CHAUHAN",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "SHAKUNTALA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "PINKI SHARMA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "BHAWNA GAUR",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SUSHMA CHAUHAN",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI PRAC",
+          "teacher": "SUSHMA CHAUHAN",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "BHAWNA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "NEHA GUPTA",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HCARE",
+          "teacher": "SHRADHA HEALTH",
+          "periods": 4,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or G.S",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or SCI",
+          "teacher": "SUSHMA CHAUHAN",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "SUSHMA CHAUHAN",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "10C": {
+      "teacher": "NISHA BARAK",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "SAVITA SHARMA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "LAXMI",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "NISHA BARAK",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SEEMA KAPOOR",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI PRAC",
+          "teacher": "SEEMA KAPOOR",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "POOJA TYAGI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "SUNITA SKT",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "HCARE",
+          "teacher": "SHRADHA HEALTH",
+          "periods": 4,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "BEAUTY",
+          "parallel_teacher": "PARUL BEAUTY"
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or HPE",
+          "teacher": "RACHNA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or MATHS",
+          "teacher": "NISHA BARAK",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "NISHA BARAK",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "10D": {
+      "teacher": "SUMAN SEJWAL",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "RICHA MITTAL",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "RANJANA",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "SUPRIYA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI",
+          "teacher": "SUMAN SEJWAL",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SCI PRAC",
+          "teacher": "SUMAN SEJWAL",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SSC",
+          "teacher": "KOMAL",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SKT",
+          "teacher": "ANITA KUMARI",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "URDU",
+          "parallel_teacher": "IRFAN"
+        },
+        {
+          "name": "BEAUTY",
+          "teacher": "PARUL BEAUTY",
+          "periods": 4,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or MATHS",
+          "teacher": "SUPRIYA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or SCI",
+          "teacher": "SUMAN SEJWAL",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            1
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "SUMAN SEJWAL",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "11A": {
+      "teacher": "RITU",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "PHY",
+          "teacher": "NEHA CHHABRA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "PHY PRAC",
+          "teacher": "NEHA CHHABRA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "CHEM PRAC",
+          "parallel_teacher": "RITU"
+        },
+        {
+          "name": "CHEM",
+          "teacher": "RITU",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "BIO",
+          "teacher": "SUSHILA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "BIO PRAC",
+          "teacher": "SUSHILA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ENG",
+          "teacher": "MANJU  ENG.",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "PHY EDU",
+          "teacher": "MANISHA",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "PHY EDU PRAC",
+          "teacher": "MANISHA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "CS ADD.",
+          "teacher": "RAJENDER SINGH",
+          "periods": 4,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or BIO",
+          "teacher": "SUSHILA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or CHEM",
+          "teacher": "RITU",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "RITU",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "11B": {
+      "teacher": "SHALU ARORA",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "PHY",
+          "teacher": "SHALU ARORA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "PHY PRAC",
+          "teacher": "SHALU ARORA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "CHEM PRAC",
+          "parallel_teacher": "SEEMA GARG"
+        },
+        {
+          "name": "CHEM",
+          "teacher": "SEEMA GARG",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "BIO",
+          "teacher": "SUSHILA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "CS",
+          "parallel_teacher": "RAJENDER SINGH"
+        },
+        {
+          "name": "MATHS",
+          "teacher": "GEETA GAHLOT",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ENG",
+          "teacher": "MANJU  ENG.",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI ADD",
+          "teacher": "VIMLA MARTOLIA",
+          "periods": 4,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or CS",
+          "teacher": "RAJENDER SINGH",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or PHY",
+          "teacher": "SHALU ARORA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "SHALU ARORA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "BIO PRAC",
+          "teacher": "SUSHILA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "CS PRAC",
+          "parallel_teacher": "RAJENDER SINGH"
+        }
+      ]
+    },
+    "11C": {
+      "teacher": "ANJALI YADAV",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "BST",
+          "teacher": "MEENU COMMERCE",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ACC",
+          "teacher": "JYOTI LOHCHAB",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ECO",
+          "teacher": "ANJALI YADAV",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "GEETA GAHLOT",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "HINDI",
+          "parallel_teacher": "RAJNI KATARIA"
+        },
+        {
+          "name": "ENG",
+          "teacher": "RAJWANTI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "PHY EDU ADD",
+          "teacher": "MANISHA",
+          "periods": 2,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "PHY EDU PRAC",
+          "teacher": "MANISHA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or ACC",
+          "teacher": "JYOTI LOHCHAB",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or ECO",
+          "teacher": "ANJALI YADAV",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "ANJALI YADAV",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "GEETA GAHLOT",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "HINDI",
+          "parallel_teacher": "RAJNI KATARIA"
+        }
+      ]
+    },
+    "11D": {
+      "teacher": "UJJWAL DAHIYA",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "MANJU  ENG.",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "ANURADHA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HIS",
+          "teacher": "UJJWAL DAHIYA",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "POL SC",
+          "teacher": "NIDHI MAAN",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ECO",
+          "teacher": "SUNIL  ECO",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "GEO ADD",
+          "teacher": "SUNITA DABAS",
+          "periods": 4,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or ECO",
+          "teacher": "SUNIL  ECO",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or HIS",
+          "teacher": "UJJWAL DAHIYA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "UJJWAL DAHIYA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "11E": {
+      "teacher": "VIMLA MARTOLIA",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "RAJWANTI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "VIMLA MARTOLIA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HIS",
+          "teacher": "BHAGMATI",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "POL SC",
+          "teacher": "GUNJAN POL. SCI.",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC",
+          "teacher": "NEHA AHLAWAT",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HCARE",
+          "teacher": "SHRADHA HEALTH",
+          "periods": 5,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or POL SC",
+          "teacher": "GUNJAN POL. SCI.",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or HINDI",
+          "teacher": "VIMLA MARTOLIA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "VIMLA MARTOLIA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC PRAC",
+          "teacher": "NEHA AHLAWAT",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "11F": {
+      "teacher": "ANURADHA",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "RAJWANTI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "ANURADHA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HIS",
+          "teacher": "NEERAJ RANI",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "POL SC",
+          "teacher": "GITA DAGAR",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "GEO",
+          "teacher": "SUNITA DABAS",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC ADD",
+          "teacher": "NEHA AHLAWAT",
+          "periods": 2,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC PRAC",
+          "teacher": "NEHA AHLAWAT",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "GEO PRAC",
+          "teacher": "SUNITA DABAS",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or HIS",
+          "teacher": "NEERAJ RANI",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or HINDI",
+          "teacher": "ANURADHA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "ANURADHA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "11G": {
+      "teacher": "BEENA TYAGI",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "SKT",
+          "teacher": "BEENA TYAGI",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "SEENU RANI",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HIS",
+          "teacher": "UJJWAL DAHIYA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "POL SC",
+          "teacher": "NIDHI MAAN",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC",
+          "teacher": "NEHA AHLAWAT",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC PRAC",
+          "teacher": "NEHA AHLAWAT",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "BEAUTY",
+          "teacher": "PARUL BEAUTY",
+          "periods": 5,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or HSC",
+          "teacher": "NEHA AHLAWAT",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or HINDI",
+          "teacher": "BEENA TYAGI",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "BEENA TYAGI",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "12A": {
+      "teacher": "SEEMA GARG",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "PHY",
+          "teacher": "SHALU ARORA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "CHEM",
+          "teacher": "SEEMA GARG",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "PHY PRAC",
+          "teacher": "SHALU ARORA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "CHEM PRAC",
+          "parallel_teacher": "SEEMA GARG"
+        },
+        {
+          "name": "BIO",
+          "teacher": "SUSHILA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "BIO PRAC",
+          "teacher": "SUSHILA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ENG",
+          "teacher": "RAJWANTI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "PHY EDU",
+          "teacher": "MANISHA",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "PHY EDU PRAC",
+          "teacher": "MANISHA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI ADD",
+          "teacher": "RAJNI KATARIA",
+          "periods": 4,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or ENG",
+          "teacher": "RAJWANTI",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or CHEM",
+          "teacher": "SEEMA GARG",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "SEEMA GARG",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "12B": {
+      "teacher": "NEHA CHHABRA",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "PHY",
+          "teacher": "NEHA CHHABRA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "CHEM",
+          "teacher": "RITU",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "PHY PRAC",
+          "teacher": "NEHA CHHABRA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "CHEM PRAC",
+          "parallel_teacher": "RITU"
+        },
+        {
+          "name": "BIO",
+          "teacher": "SUSHILA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "CS",
+          "parallel_teacher": "RAJENDER SINGH"
+        },
+        {
+          "name": "BIO PRAC",
+          "teacher": "SUSHILA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "CS PRAC",
+          "parallel_teacher": "RAJENDER SINGH"
+        },
+        {
+          "name": "MATHS",
+          "teacher": "GEETA GAHLOT",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "PHY EDU",
+          "parallel_teacher": "MANISHA"
+        },
+        {
+          "name": "MATHS",
+          "teacher": "GEETA GAHLOT",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "PHY EDU PRAC",
+          "parallel_teacher": "MANISHA"
+        },
+        {
+          "name": "ENG",
+          "teacher": "RAJWANTI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI ADD",
+          "teacher": "ANURADHA",
+          "periods": 4,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or GS",
+          "teacher": "MANISHA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or PHY",
+          "teacher": "NEHA CHHABRA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "NEHA CHHABRA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "12C": {
+      "teacher": "MEENU COMMERCE",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "BST",
+          "teacher": "JYOTI LOHCHAB",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ACC",
+          "teacher": "MEENU COMMERCE",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ECO",
+          "teacher": "SUNIL  ECO",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "GEETA GAHLOT",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "HINDI",
+          "parallel_teacher": "SEENU RANI"
+        },
+        {
+          "name": "ENG",
+          "teacher": "MANJU  ENG.",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "PHY EDU ADD",
+          "teacher": "MANISHA",
+          "periods": 2,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "PHY EDU PRAC",
+          "teacher": "MANISHA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or GS",
+          "teacher": "GEETA GAHLOT",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or ACC",
+          "teacher": "MEENU COMMERCE",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "MEENU COMMERCE",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "MATHS",
+          "teacher": "GEETA GAHLOT",
+          "periods": 2,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "HINDI",
+          "parallel_teacher": "SEENU RANI"
+        },
+        {
+          "name": "MATHS",
+          "teacher": "GEETA GAHLOT",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": true,
+          "parallel_subject": "HINDI",
+          "parallel_teacher": "SEENU RANI"
+        }
+      ]
+    },
+    "12D": {
+      "teacher": "BHAGMATI",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "RAJWANTI",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "SEENU RANI",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HIS",
+          "teacher": "BHAGMATI",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "POL SC",
+          "teacher": "GITA DAGAR",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "ECO",
+          "teacher": "ANJALI YADAV",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "GEO ADD",
+          "teacher": "SUNITA DABAS",
+          "periods": 2,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "GEO PRAC",
+          "teacher": "SUNITA DABAS",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or HINDI",
+          "teacher": "SEENU RANI",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or HIS",
+          "teacher": "BHAGMATI",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "BHAGMATI",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "12E": {
+      "teacher": "NIDHI MAAN",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "MANJU  ENG.",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "VIMLA MARTOLIA",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HIS",
+          "teacher": "NEERAJ RANI",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "POL SC",
+          "teacher": "NIDHI MAAN",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC",
+          "teacher": "NEHA AHLAWAT",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC PRAC",
+          "teacher": "NEHA AHLAWAT",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HCARE",
+          "teacher": "SHRADHA HEALTH",
+          "periods": 5,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or HCARE",
+          "teacher": "SHRADHA HEALTH",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or POL SC",
+          "teacher": "NIDHI MAAN",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "NIDHI MAAN",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "12F": {
+      "teacher": "SUNITA DABAS",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "ENG",
+          "teacher": "MANJU  ENG.",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "VIMLA MARTOLIA",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HIS",
+          "teacher": "UJJWAL DAHIYA",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "POL SC",
+          "teacher": "GUNJAN POL. SCI.",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "GEO",
+          "teacher": "SUNITA DABAS",
+          "periods": 6,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "GEO PRAC",
+          "teacher": "SUNITA DABAS",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC ADD",
+          "teacher": "SEEMA H.SC",
+          "periods": 2,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC PRAC",
+          "teacher": "SEEMA H.SC",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "REKHA CHOUDHARY",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or EVGC",
+          "teacher": "SARITA",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or GEO",
+          "teacher": "SUNITA DABAS",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "SUNITA DABAS",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    },
+    "12G": {
+      "teacher": "RAJNI KATARIA",
+      "teacher_period": 1,
+      "subjects": [
+        {
+          "name": "SKT",
+          "teacher": "BEENA TYAGI",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HINDI",
+          "teacher": "RAJNI KATARIA",
+          "periods": 8,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HIS",
+          "teacher": "BHAGMATI",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "POL SC",
+          "teacher": "GITA DAGAR",
+          "periods": 7,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC",
+          "teacher": "NEHA AHLAWAT",
+          "periods": 5,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HSC PRAC",
+          "teacher": "NEHA AHLAWAT",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "BEAUTY",
+          "teacher": "PARUL BEAUTY",
+          "periods": 5,
+          "consecutive": "Yes",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "LIB",
+          "teacher": "MANJILA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "HPE",
+          "teacher": "RACHNA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "SOL or POL SC",
+          "teacher": "GITA DAGAR",
+          "periods": 2,
+          "consecutive": "Yes",
+          "periods_pref": [
+            7,
+            8
+          ],
+          "days_pref": [
+            "Wed"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "RN or HINDI",
+          "teacher": "RAJNI KATARIA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Sat"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "NEEV",
+          "teacher": "RAJNI KATARIA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [
+            2
+          ],
+          "days_pref": [
+            "Fri"
+          ],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        },
+        {
+          "name": "EVGC",
+          "teacher": "SARITA",
+          "periods": 1,
+          "consecutive": "No",
+          "periods_pref": [],
+          "days_pref": [],
+          "parallel": false,
+          "parallel_subject": "",
+          "parallel_teacher": ""
+        }
+      ]
+    }
+  },
+  "saved_at": "2026-03-17 16:52:46"
+}

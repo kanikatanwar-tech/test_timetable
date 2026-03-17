@@ -1,0 +1,362 @@
+{
+  "step3_data": {
+    "IRFAN": {
+      "skipped": true,
+      "combines": [
+        {
+          "entry_indices": [
+            14,
+            15,
+            16
+          ],
+          "periods_each": 5,
+          "classes": [
+            "10A",
+            "10C",
+            "10D"
+          ],
+          "subjects": [
+            "URDU",
+            "URDU",
+            "URDU"
+          ]
+        },
+        {
+          "entry_indices": [
+            0,
+            1,
+            2
+          ],
+          "periods_each": 5,
+          "classes": [
+            "6A",
+            "6B",
+            "6C"
+          ],
+          "subjects": [
+            "URDU",
+            "URDU",
+            "URDU"
+          ]
+        },
+        {
+          "entry_indices": [
+            3,
+            4
+          ],
+          "periods_each": 5,
+          "classes": [
+            "7A",
+            "7B"
+          ],
+          "subjects": [
+            "URDU",
+            "URDU"
+          ]
+        },
+        {
+          "entry_indices": [
+            11,
+            12,
+            13
+          ],
+          "periods_each": 5,
+          "classes": [
+            "9B",
+            "9C",
+            "9D"
+          ],
+          "subjects": [
+            "URDU",
+            "URDU",
+            "URDU"
+          ]
+        }
+      ]
+    },
+    "RAJWANTI": {
+      "skipped": true,
+      "combines": []
+    },
+    "GEETA GAHLOT": {
+      "skipped": false,
+      "combines": [
+        {
+          "entry_indices": [
+            3,
+            5
+          ],
+          "periods_each": 5,
+          "classes": [
+            "12B",
+            "12C"
+          ],
+          "subjects": [
+            "MATHS",
+            "MATHS"
+          ]
+        },
+        {
+          "entry_indices": [
+            4,
+            7
+          ],
+          "periods_each": 2,
+          "classes": [
+            "12B",
+            "12C"
+          ],
+          "subjects": [
+            "MATHS",
+            "MATHS"
+          ]
+        }
+      ]
+    },
+    "PARUL BEAUTY": {
+      "skipped": false,
+      "combines": [
+        {
+          "entry_indices": [
+            1,
+            2
+          ],
+          "periods_each": 4,
+          "classes": [
+            "9D",
+            "9E"
+          ],
+          "subjects": [
+            "BEAUTY",
+            "BEAUTY"
+          ]
+        },
+        {
+          "entry_indices": [
+            3,
+            4
+          ],
+          "periods_each": 4,
+          "classes": [
+            "10C",
+            "10D"
+          ],
+          "subjects": [
+            "BEAUTY",
+            "BEAUTY"
+          ]
+        }
+      ]
+    },
+    "SHRADHA HEALTH": {
+      "skipped": false,
+      "combines": [
+        {
+          "entry_indices": [
+            0,
+            1
+          ],
+          "periods_each": 4,
+          "classes": [
+            "9B",
+            "9C"
+          ],
+          "subjects": [
+            "HCARE",
+            "HCARE"
+          ]
+        },
+        {
+          "entry_indices": [
+            2,
+            3
+          ],
+          "periods_each": 4,
+          "classes": [
+            "10B",
+            "10C"
+          ],
+          "subjects": [
+            "HCARE",
+            "HCARE"
+          ]
+        }
+      ]
+    },
+    "SUSHILA": {
+      "skipped": true,
+      "combines": []
+    }
+  },
+  "step3_unavailability": {
+    "AMIT KUMAR": {
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "periods": [
+        1,
+        2,
+        3
+      ]
+    },
+    "ANJU MAAN": {
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "periods": [
+        1,
+        2,
+        3
+      ]
+    },
+    "JYOTI LOHCHAB": {
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "periods": [
+        1,
+        2,
+        3
+      ]
+    },
+    "SUPRIYA": {
+      "days": [
+        "Mon",
+        "Tue",
+        "Thu",
+        "Fri",
+        "Sat"
+      ],
+      "periods": [
+        6,
+        7,
+        8
+      ]
+    },
+    "ANITA": {
+      "days": [
+        "Mon",
+        "Tue",
+        "Thu",
+        "Fri",
+        "Sat"
+      ],
+      "periods": [
+        6,
+        7,
+        8
+      ]
+    },
+    "NEERAJ RANI": {
+      "days": [
+        "Mon",
+        "Tue",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Wed"
+      ],
+      "periods": [
+        1,
+        2
+      ]
+    },
+    "SONIA": {
+      "days": [
+        "Mon",
+        "Tue",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Wed"
+      ],
+      "periods": [
+        1,
+        2
+      ]
+    },
+    "NEHA AHLAWAT": {
+      "days": [
+        "Mon",
+        "Tue",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Wed"
+      ],
+      "periods": [
+        5
+      ]
+    },
+    "SEEMA H.SC": {
+      "days": [
+        "Mon",
+        "Tue",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Wed"
+      ],
+      "periods": [
+        5
+      ]
+    },
+    "MANJILA": {
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat"
+      ],
+      "periods": [
+        1,
+        8
+      ]
+    },
+    "GEETA GAHLOT": {
+      "days": [
+        "Mon",
+        "Tue",
+        "Thu",
+        "Fri",
+        "Sat"
+      ],
+      "periods": [
+        8,
+        6,
+        7
+      ]
+    },
+    "SUNIL  ECO": {
+      "days": [
+        "Mon",
+        "Tue",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Wed"
+      ],
+      "periods": [
+        2,
+        3,
+        1
+      ]
+    }
+  },
+  "saved_at": "2026-03-17 16:59:59",
+  "step": 3
+}
